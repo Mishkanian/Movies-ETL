@@ -1,3 +1,11 @@
+#data files
+ratings.csv
+movies_metadata.csv
+wikipedia-movies.json
+
+# config file
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -76,6 +84,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
