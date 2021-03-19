@@ -16,7 +16,7 @@ The purpose of this project is to create an automated pipeline that takes in new
 ## Results  
 The new ETL function performs correctly and the data is successfuly added to a PostgreSQL database as seen in the images below. The final code can be viewed [here](https://github.com/Mishkanian/Movies-ETL/blob/main/ETL_create_database.ipynb).
 
-![movies](https://github.com/Mishkanian/Movies-ETL/blob/main/Resources/movies_rows.png)
+![movie](https://github.com/Mishkanian/Movies-ETL/blob/main/Resources/movies_row.png)
 
 ![ratings](https://github.com/Mishkanian/Movies-ETL/blob/main/Resources/ratings_rows.png)
 
