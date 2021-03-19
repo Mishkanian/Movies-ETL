@@ -12,7 +12,11 @@ The purpose of this project is to create an automated pipeline that takes in new
 ## Results  
 The new ETL function performs correctly and the data is successfuly added to a PostgreSQL database. Please see the images below:
 
-[Project in progress...]
+These outputs were created with the following queries:
+```sql
+SELECT COUNT(*) AS "Number of Movies row" FROM movies;
+SELECT COUNT(*) AS "Number of Ratings row" FROM ratings;
+```
 
 **Author: Michael Mishkanian**  
 
