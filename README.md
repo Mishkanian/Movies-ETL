@@ -1,7 +1,7 @@
 # Movie Data - ETL in a Single Function
 
 ## Project Overview  
-The purpose of this project is to create an automated pipeline that takes in new movie data, performs the appropriate transformations, and loads the data into existing tables. Our existing code is refactored into one function that performs the ETL process.
+The purpose of this project is to create an automated pipeline that takes in new movie data, performs the appropriate transformations, and loads the data into existing tables. The existing code is refactored into one function that performs the ETL process.
 
 ## Resources and Software
 
